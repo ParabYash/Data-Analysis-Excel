@@ -24,9 +24,9 @@ The dataset contains the following features:
 ## Project Objectives
 The main objectives of this project are to:
 
-Data Cleaning: Ensure the dataset is free from errors and inconsistencies.
-Data Analysis: Explore the dataset to uncover patterns and relationships between features.
-Visualization: Create visualizations to present the findings in an intuitive manner.
+- Data Cleaning: Ensure the dataset is free from errors and inconsistencies.
+- Data Analysis: Explore the dataset to uncover patterns and relationships between features.
+- Visualization: Create visualizations to present the findings in an intuitive manner.
 
 
 ## Key Findings
